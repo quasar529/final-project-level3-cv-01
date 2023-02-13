@@ -6,7 +6,6 @@ comm==0.1.2
 currencyconverter==0.17
 deepface==0.0.75
 django==3.1.7
-dlib==19.24.0
 fastapi==0.89.1
 gcloud==0.18.3
 googletrans==4.0.0rc1
