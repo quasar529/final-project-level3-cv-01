@@ -1,7 +1,6 @@
 aiohttp==3.8.3
 cmake==3.25.0
 deepface==0.0.78
-dlib==19.24.0
 fastapi==0.89.1
 google-cloud-storage==2.7.0
 gputil==1.4.0
