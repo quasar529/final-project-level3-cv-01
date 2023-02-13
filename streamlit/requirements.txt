@@ -38,6 +38,7 @@ schedule==1.1.0
 seaborn==0.12.1
 selenium==3.141.0
 split-folders==0.5.1
+streamlit
 streamlit-webrtc==0.44.2
 timm==0.6.12
 uvicorn==0.20.0
